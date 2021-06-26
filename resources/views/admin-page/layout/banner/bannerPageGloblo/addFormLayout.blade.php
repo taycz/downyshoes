@@ -1,0 +1,5 @@
+@include('admin-page.layout.head')
+@include('admin-page.layout.header')
+@include('admin-page.layout.sidebar')
+@include('admin-page.layout.banner.bannerPageGlobo.AddForm')
+@include('admin-page.layout.footer')

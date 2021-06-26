@@ -1,0 +1,35 @@
+i{
+ width: 35px;
+  height: 20px;
+  text-align: center;
+}
+
+.nav-item .nav-icon{
+  width: 1.9rem !important;
+}
+.btn.btn-info.btn-flat{
+  border-radius: 5px;
+}
+.txtTichtrinh{
+  display: flex;
+  flex-direction: column;
+}
+.brand-link{
+  text-align: center;
+}
+.btn.btn-danger.swalDefaultError{
+  display: none;
+
+}
+.btn.btn-success.toastrDefaultSuccess{
+  display: none;
+}
+.select2-search__field{
+  width: 1px !important;
+}
+.select2-selection__choice{
+  width: auto;
+}
+.select2-selection__choice__display{
+  margin-left:12px;
+}
